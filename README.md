@@ -1,9 +1,9 @@
-# Getting Started with Create React App
+# Netflix Clone with MovieDB APIs 2022
+This `Netflix` lone project is just for fun, and this time using `MovieDB API`
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="https://raw.githubusercontent.com/ferdianar/netflix-clone-moviedb-api/master/src/assets/preview.png" alt="netflix-clone" />
 
 ## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
