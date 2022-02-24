@@ -4,7 +4,15 @@
     margin: 0;
     padding: 0;
     scroll-behavior: smooth;
-    background: #141125;
+}
+
+body {
+    background: #000;
+}
+
+.header {
+    background-image: url("./assets/background.jpg");
+    background-size: cover;
 }
 
 @tailwind base;
