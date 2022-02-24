@@ -8,6 +8,10 @@
 # env
 .env
 
+# api url key and image path
+src/apis
+src/apis/apis.js
+
 # testing
 /coverage
 

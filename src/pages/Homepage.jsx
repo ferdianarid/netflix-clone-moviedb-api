@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react'
 import MovieCard from '../components/organism/MovieCard'
+import { API_KEY, API_URL, ImagePath } from '../apis/apis'
 
 const Homepage = () => {
-       const MoviesAPI = `https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=3c2d5b1da21741a78bd58268b6997c7b`
-       const ImagePath = `https://image.tmdb.org/t/p/w1280`
+       const MoviesAPI = `${API_URL + API_KEY}`
 
        const [movies, setMovies] = useState([])
        const [loadMore, setLoadMore] = useState(MoviesAPI)
