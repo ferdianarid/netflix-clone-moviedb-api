@@ -1,5 +1,6 @@
-# Netflix Clone with MovieDB APIs
-This ###`Netflix` lone project is just for fun, and because ###`Netflix API` is a bit tricky to find api key, so this time using ###`MovieDB API`
+# Netflix Clone with MovieDB APIs 2022
+This `Netflix` lone project is just for fun, and because `Netflix API` is a bit tricky to find api key, so this time using `MovieDB API`
+
 <img src="https://raw.githubusercontent.com/ferdianar/netflix-clone-moviedb-api/master/src/assets/preview.png" alt="netflix-clone" />
 
 ## Available Scripts
